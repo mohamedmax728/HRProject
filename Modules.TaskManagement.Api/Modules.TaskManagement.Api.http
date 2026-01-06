@@ -1,0 +1,6 @@
+@Modules.TaskManagement.Api_HostAddress = http://localhost:5131
+
+GET {{Modules.TaskManagement.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

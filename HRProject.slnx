@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="docker-compose.yml" />
+  </Folder>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Modules/" />
+  <Folder Name="/src/Modules/TaskManagement/" />
+  <Folder Name="/src/Modules/TaskManagement/Api/">
+    <Project Path="Modules.TaskManagement.Api/Modules.TaskManagement.Api.csproj" Id="2ac4e4eb-8996-4893-835b-4925ddd9a6ec" />
+  </Folder>
+  <Folder Name="/src/Modules/TaskManagement/Core/">
+    <Project Path="Modules.TaskManagement.Application/Modules.TaskManagement.Application.csproj" />
+    <Project Path="Modules.TaskManagement.Domain/Modules.TaskManagement.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/TaskManagement/Infrastructure/">
+    <Project Path="Modules.TaskManagement.Persistence/Modules.TaskManagement.Persistence.csproj" />
+  </Folder>
+</Solution>
